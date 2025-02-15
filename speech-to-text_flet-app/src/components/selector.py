@@ -2,7 +2,7 @@ import flet as ft
 from components import styles
 
 selector = ft.Dropdown( "small", 
-                        label="modelo",
+                        label="model",
                         label_style= ft.TextStyle(
         size=16,
         weight=ft.FontWeight.W_200,

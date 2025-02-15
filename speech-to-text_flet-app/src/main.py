@@ -6,7 +6,7 @@ from components import styles
 
 def main(page: ft.Page):
 
-    page.title = "Taquigrafo App"
+    page.title = "Speech-to-Text App"
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     page.theme = styles.theme_clear
     page.bgcolor = styles.APP_WHITE

@@ -1,0 +1,6 @@
+flet==0.22.*
+numpy==1.26.4
+speechrecognition==3.10.3
+torch==1.11.0
+openai-whisper==20231117
+pyaudio==0.2.14
